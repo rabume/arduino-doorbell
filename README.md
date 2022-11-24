@@ -2,7 +2,7 @@
 
 ### Hardware
 - Arduino Uno
-- Adafruit Bluefruit LE Shield Bluetooth
+- [Adafruit Bluefruit LE Shield Bluetooth](https://www.adafruit.com/product/2746)
 - Some wires
 - Button
 
