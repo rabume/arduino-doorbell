@@ -1,19 +1,19 @@
-# Arduino Doorbell
+# 🔔 Arduino Doorbell
 
-### Hardware
+### 🔩 Hardware
 - Arduino Uno
 - [Adafruit Bluefruit LE Shield Bluetooth](https://www.adafruit.com/product/2746)
 - Some wires
 - Button
 
-### Dependencies
+### 📦 Dependencies
 Add "Adafruit BluefruitLE nRF51" over the libary manager in the Arduino IDE
 https://github.com/adafruit/Adafruit_BluefruitLE_nRF51
 
 Same for the libary "ezButton"
 https://github.com/ArduinoGetStarted/button
 
-### Registry path
+### 🔑 Registry path
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\AppKey\18`
 
 Create a new entry with the type of "string value" and call it "ShellExecute".
